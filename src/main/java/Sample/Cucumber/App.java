@@ -1,4 +1,4 @@
-package Automation.Cucumber;
+package Sample.Cucumber;
 
 /**
  * Hello world!
